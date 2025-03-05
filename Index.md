@@ -29,7 +29,7 @@
 │   ├── KVM_Setup.md
 │   ├── Docker_Basics.md
 │   ├── Kubernetes_Intro.md
-│   ├── HyperVM_Management.md
+│   ├── oVirt_Management.md
 │
 │── 📂 06_Cloud_&_Automation
 │   ├── OpenStack_Overview.md
