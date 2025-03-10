@@ -6,11 +6,11 @@
 
 ### INTRO
 
-sosreport는 RHEL 시스템에서 문제 해결 및 진단을 위해 사용되는 시스템 상태 수집 도구이다. 시스템 관련 문제를 분석할 때 sosreport를 활용하여 다양한 정보를 자동으로 수집하고 압축된 보고서를 생성할 수 있다.
+`sosreport` 는 RHEL 시스템에서 문제 해결 및 진단을 위해 사용되는 시스템 상태 수집 도구이다. 시스템 관련 문제를 분석할 때 sosreport를 활용하여 다양한 정보를 자동으로 수집하고 압축된 보고서를 생성할 수 있다.
 
-`sos` 패키지를 설치하여 sosreport를 실행할 수 있다.
+`sos` 패키지를 설치하여 `sosreport` 를 실행할 수 있다.
 
-`sosreport --batch`  명령어를 통해 sosreport를 생성한다. `/var/tmp/` 하위에 `sosreport-{hostname}-{date}-{random}` 생성된다.
+`sosreport --batch`  명령어를 통해 `sosreport` 를 생성한다. `/var/tmp/` 하위에 `sosreport-{hostname}-{date}-{random}` 생성된다.
 
 ---
 
